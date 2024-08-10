@@ -6,7 +6,7 @@ Haloo, kenalin semuanya aku Wardatul Khoiroh dengan NIM TPB 19623298, Jurusan Te
 **Framer Motion** : Library untuk animasi di React yang membuat animasi lebih mudah dan intuitif
 **Image Optimization** : Next.js menyediakan komponen Image untuk mengoptimalkan gambar, yang mempercepat waktu muat halaman																																					
 Cara menjalankan program dengan kloning repository, lalu instalasi dependencies, menjalankan development server (npm run dev), akses website melalui browser dengan membuka 'http://localhost:3000'. Secara sekilas sama seperti menjalankan program pada umumnya.								
-Bonus yang dikerjakan yaitu deployement dan kreativitas yaitu selesai. 													
-Kesulitan yang dihadapi yaitu sering terjadi eror dikarenakan kurang teliti dan beberapa permasalahan lainnya. Sulitnya menyusun konfigurasi yang tepat untuk rendering sisi server dan statis, pengelolaan dan penyelesaian masalah dengan versi yang berbeda dari dependensi yang digunakan. 																																													
+Bonus yang dikerjakan yaitu deployement (gagal) dan kreativitas yaitu selesai. 													
+Kesulitan yang dihadapi yaitu sering terjadi eror dikarenakan kurang teliti dan beberapa permasalahan lainnya. Sulitnya menyusun konfigurasi yang tepat untuk rendering sisi server dan statis, pengelolaan dan penyelesaian masalah dengan versi yang berbeda dari dependensi yang digunakan. Code error web tidak dapat dibuka setelah deployement gagal. 																																													
 Wardatul Khoiroh - Warda
 wardatulkhoiroh11@gmail.com
