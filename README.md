@@ -1,36 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Haloo, kenalin semuanya aku Wardatul Khoiroh dengan NIM TPB 19623298, Jurusan Teknik Informatika. Pada proyek kali ini, saya membuat suatu website portofolio diri yang berisikan segala informasi mengenai diri saya mulai dari nama, jurusan, minat bakat, pengalaman, projek, dan cara untuk menghubungi pembuat portofolio. Tujuan website ini untuk memberikan gambaran jelas dan profesional mengenai pemilik portofolio. Projek ini bersifat sederhana menggunakan node js, next js, reat, tailwind css, framer motion, dan image optimization. 																									
+**Node.js** : untuk menjalankan JavaScript di sisi server
+**Next.js** : menyediakan fitur-fitur seperti rendering sisi server (SSR) dan statis (SSG)
+**React** : Library JavaScript untuk membangun antarmuka pengguna yang interaktif
+**Tailwind CSS**: Framework CSS untuk mendesain UI dengan kelas utility yang memungkinkan penyesuaian cepat dan konsisten
+**Framer Motion** : Library untuk animasi di React yang membuat animasi lebih mudah dan intuitif
+**Image Optimization** : Next.js menyediakan komponen Image untuk mengoptimalkan gambar, yang mempercepat waktu muat halaman																																					
+Cara menjalankan program dengan kloning repository, lalu instalasi dependencies, menjalankan development server (npm run dev), akses website melalui browser dengan membuka 'http://localhost:3000'. Secara sekilas sama seperti menjalankan program pada umumnya.								
+Bonus yang dikerjakan yaitu deployement dan kreativitas yaitu selesai. 													
+Kesulitan yang dihadapi yaitu sering terjadi eror dikarenakan kurang teliti dan beberapa permasalahan lainnya. Sulitnya menyusun konfigurasi yang tepat untuk rendering sisi server dan statis, pengelolaan dan penyelesaian masalah dengan versi yang berbeda dari dependensi yang digunakan. 																																													
+Wardatul Khoiroh - Warda
+wardatulkhoiroh11@gmail.com
